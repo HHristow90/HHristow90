@@ -12,7 +12,7 @@ I am a hardworking, rational and receptive young professional with focus, intere
 
 - Any collaboration for work
 - Python projects (development or research)
-- Learn new things about ML/DL
+- Learning new things about ML/DL
 - Improving skills at frontend and backend programming
 
 ## Skills:
